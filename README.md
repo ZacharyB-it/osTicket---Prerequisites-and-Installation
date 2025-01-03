@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10 machine
 - Access to Internet
-- Item 3
+- [Files you will need]([url](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0))
 - Item 4
 - Item 5
 
