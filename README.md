@@ -149,7 +149,7 @@ Now we have to rename "ost-sampleconfig.php" to "ost-config.php".now we navigate
 <br />
 
 <p>
-<img src="Securityadvanced settings](https://github.com/user-attachments/assets/4a293899-e2c0-4363-a0b7-bbbb9ec35a8e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/4a293899-e2c0-4363-a0b7-bbbb9ec35a8e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After the above steps are complete right click "ost-config.php" again and click properties g
