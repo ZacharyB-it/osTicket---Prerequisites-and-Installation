@@ -39,7 +39,7 @@ Log into your virtual machine with remote desktop. After doing so download the f
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install / Enable IIS in Windows WITH CGI by going into "Control Panel", then "Programs", then click "Turn Windows features on or off". When you do that you will see the image above select the box next "Internet Information Services" make sure it is marked. After this hit the plus button next to "World Wide Web Services", then the plus button next to "Application Development Features". Doing this should allow you to see "CGI" in the image above. Check the box next to "CGI"
 </p>
 <br />
 
