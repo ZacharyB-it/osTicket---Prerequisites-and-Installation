@@ -162,7 +162,24 @@ Now go back to the osTicket installer webpage. Hit continue and fill out the for
 </p>
 <p>
 Right click the dolphin with unamed next to it and create a new data base called "osTicket".
+ After doing that go back to the form you were filling out complete that info and hit install now and it should be installed.
+ Your database is called osTicket. 
+</p>
+<br />
 
-  After doing that go back to the form you were filling out complete that info and hit install now and it should be installed.
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Congrats your osTicket should be able to use now. Go to http://localhost/osTicket/ if you want to use it.
+  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Last minute cleanup we have to do. First navigate back to  C:\inetpub\wwwroot\osTicket\ in your files delete the setup folder by selecting it and then right clicking it. Now open include and navigate to "ost-config.php" right click it go to properties and look in "General" for "Attributes" and check "Read-only". Hit Apply, then ok. Now we are all done!
 </p>
 <br />
