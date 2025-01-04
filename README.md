@@ -37,7 +37,8 @@ Log into your virtual machine with remote desktop. After doing so download the f
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/53128448-6b12-405f-a499-7c478a341b7d"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install / Enable IIS in Windows WITH CGI by going into "Control Panel", then "Programs", then click "Turn Windows features on or off". When you do that you will see the image above select the box next "Internet Information Services" make sure it is marked. After this hit the plus button next to "World Wide Web Services", then the plus button next to "Application Development Features". Doing this should allow you to see "CGI" in the image above. Check the box next to "CGI". Hit ok and let Windows download and apply those files.
