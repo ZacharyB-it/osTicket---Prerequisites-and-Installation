@@ -54,7 +54,13 @@ Go back to the file we extracted earlier and install the PHPManagerForIIS_V1.5.0
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/6cad4f80-58d2-4241-a718-ce9edbd0d98a"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/f21a0c11-e1fd-4cba-b6bf-b0dc9b00fe64"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next create a folder in your C: drive called PHP. Your C:Drive is found under "This PC" and will be called "Windows(C:)".
