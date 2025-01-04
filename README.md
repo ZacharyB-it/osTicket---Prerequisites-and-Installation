@@ -22,8 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10 virtual machine
 - Access to Internet
 - [Files you will need](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)
-- Item 4
-- Item 5
+- A device able to do remote desktop
 
 <h2>Installation Steps</h2>
 
@@ -46,7 +45,8 @@ Install / Enable IIS in Windows WITH CGI by going into "Control Panel", then "Pr
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://github.com/user-attachments/assets/6fc698e9-fc72-403c-b7b1-8735a8b7e050"
+height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go back to the file we extracted earlier and install the PHPManagerForIIS_V1.5.0 and rewrite_amd64_en-us files. Follow the download instructions provided by the programs.
