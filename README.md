@@ -69,24 +69,27 @@ Next create a folder in your C: drive called PHP. Your C:Drive is found under "T
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/bc439449-f759-4994-9d58-6228d16306a6"
+height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now install VC_redist.x86.exe from our "osTicket-Installation-Files". After doing that install mysql-5.5.62-win32.msi.
-  While you are installing MySQL when it get to the above image choose Typical. Then keep the box next to "Launch the MYSQLInstance Configuration Wizard" checked. It will then launch you into the configuration wizard.
+  During your install of  MySQL you will get to the above image choose Typical. Then keep the box next to "Launch the MYSQLInstance Configuration Wizard" checked. It will then launch you into the configuration wizard.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/e7d33974-cbb8-40cc-91b8-351c7a98b6ec"
+height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configuring the MySQL Server. Choose "Standard Configuration". Then hit next after the following page you don't have to change anything hit next again. Now choose your password. MAKE SURE YOU REMEMBER THIS!!! When you type your password hit "Next" then "execute" and finally "Finish".
+Configuring the MySQL Server. Choose "Standard Configuration". Then hit next. The following page you don't have to change anything hit next again. Now choose your password. MAKE SURE YOU REMEMBER THIS WE WILL BE USING THIS LATER WHEN ASKED FOR ROOT PASSWORD!!! When you type your password hit "Next" then "execute" and finally "Finish".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/69645910-0f4d-40d2-839f-4fda1769ba62"
+height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now Open IIS as an Admin, type IIS in the search bar, right click it and choose run as an adminstator. As shown in the image above.
