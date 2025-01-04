@@ -28,8 +28,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.c![Extract](https://github.com/user-attachments/assets/29946b82-ec21-431f-b37e-965c10ed321d)
-om/DJmEXEB.png" height="80%" width="80%" alt=/>
+<img src=[Extract](https://github.com/user-attachments/assets/29946b82-ec21-431f-b37e-965c10ed321d)
+ height="80%" width="80%" alt=/>
 </p>
 <p>
 Log into your virtual machine with remote desktop. After doing so download the files above and extract or unzip the files(right clicking the folder as shown in the photo above). 
